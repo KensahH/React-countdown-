@@ -1,0 +1,67 @@
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.count{
+position: relative;
+left:100px;
+text-transform: uppercase;
+
+}
+.day{
+position: relative;
+left:20px;
+font-size: 50px;
+color:green;
+}
+.hour{
+position:relative;
+left:120px;
+bottom:60px;
+font-size: 50px;
+color:green;
+}
+.minute{
+position: relative;
+left:220px;
+bottom:120px;
+font-size: 50px;
+color:green;
+}
+.second{
+position: relative;
+left:320px;
+bottom:179px;
+font-size: 50px;
+color:green;
+}
+.days{
+position:relative;
+bottom:190px;
+left:20px;
+text-transform: uppercase;
+color:yellowgreen;
+}
+.hours{
+position: relative;
+bottom:227px;
+left:115px;
+text-transform: uppercase;
+color: greenyellow;
+}
+.minutes{
+position: relative;
+bottom:263px;
+left:210px;
+text-transform: uppercase;
+color:yellowgreen;
+}
+.seconds{
+position: relative;
+bottom:300px;
+left:310px;
+text-transform: uppercase;
+color: greenyellow;
+
+}
